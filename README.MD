@@ -1,5 +1,7 @@
 # Design Thinking Implementation
-#### ini adalah dokumentasi project project selama mengikuti pelatihan Junior Web Developer G4 Tahun 2021
+#### ini adalah Tugas selama mengikuti pelatihan DTS ITP BE Class A
+![ebook Store](think.jpg "Flyer")
+
 <hr>
 
 ### Design Thinking
